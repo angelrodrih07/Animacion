@@ -27,8 +27,8 @@ body {
 
 audio {
     position: absolute;
-    bottom: 300px;  /* Ajusta la distancia desde el borde inferior */
-    right: 20px;   /* Ajusta la distancia desde el borde derecho */
+    bottom: 300px;
+    right: 20px;   
   }
 .boss{
     width: 400px;
